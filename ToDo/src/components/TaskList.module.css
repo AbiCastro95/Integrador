@@ -1,0 +1,13 @@
+.containerList{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 1rem 0;
+  padding: 0.5rem;
+  width: 90%;
+  border-radius: 5px;
+  background: var(--main-color-background-secondary);
+  color: var(--main-color-background);
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+  gap: 0.75rem;
+}
